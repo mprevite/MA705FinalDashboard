@@ -16,6 +16,8 @@ The dashboard summarizes all of the campaign donation information for all candid
 - Office District: a list of all districts in Massachusetts that have an office being run for.
 - Campaign Donation Measures: a measure of campaign donations with three categories; Sum, Count, and Average.
 
+Please note that this Dashboard is functional in design and presentation.
+
 
 ### Data Sources
 
