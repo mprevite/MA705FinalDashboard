@@ -135,7 +135,7 @@ app.layout = html.Div([
 
 
 
-#server = app.server
+server = app.server
 
 
 @app.callback(
