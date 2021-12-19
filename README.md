@@ -24,6 +24,7 @@ Please note that this Dashboard is functional in design and presentation.
 Candidate data was pre cleaned in excel. Empty rows were deleted in excel. Candidates who had "Statewide" in the column "Office Type Sought" had their office title from the column "District Name Sought" as this was the only office that had the office title within the "District Name Column". Because these offices were statewide offices corisponding to no districts, the state name, Massachusetts, was put in place of the district name in the "District Name Sought" column. So for every statewide office, the name of the office is included within the "Office Type Sought" column.
 
 List of data sources and references used in this course project:
+
 https://www.ocpf.us/Home/Index
 
 https://dash.plotly.com/installation
