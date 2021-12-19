@@ -24,13 +24,20 @@ Please note that this Dashboard is functional in design and presentation.
 Candidate data was pre cleaned in excel. Empty rows were deleted in excel. Candidates who had "Statewide" in the column "Office Type Sought" had their office title from the column "District Name Sought" as this was the only office that had the office title within the "District Name Column". Because these offices were statewide offices corisponding to no districts, the state name, Massachusetts, was put in place of the district name in the "District Name Sought" column. So for every statewide office, the name of the office is included within the "Office Type Sought" column.
 
 List of data sources and references used in this course project:
--https://www.ocpf.us/Home/Index
--https://dash.plotly.com/installation
--https://dash.plotly.com/advanced-callbacks
--https://dash.plotly.com/datatable/callbacks
--https://dash.plotly.com/dash-html-components
--https://towardsdatascience.com/reordering-pandas-dataframe-columns-thumbs-down-on-standard-solutions-1ff0bc2941d5
--https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns
+https://www.ocpf.us/Home/Index
+
+https://dash.plotly.com/installation
+
+https://dash.plotly.com/advanced-callbacks
+
+https://dash.plotly.com/datatable/callbacks
+
+https://dash.plotly.com/dash-html-components
+
+https://towardsdatascience.com/reordering-pandas-dataframe-columns-thumbs-down-on-standard-solutions-1ff0bc2941d5
+
+https://stackoverflow.com/questions/23668427/pandas-three-way-joining-multiple-dataframes-on-columns
+
 https://dash.plotly.com/urls
 
 Note: Some sources were used in the preprocessing and cleaning of data.
