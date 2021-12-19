@@ -31,7 +31,7 @@ def generate_table(dataframe, max_rows=10):
 
 app = dash.Dash(__name__, external_stylesheets=stylesheet)
 
-df = pd.read_pickle("/Users/Mia/Documents/Graduate School/MA705/Final Project/Dashboard/ContributionsCand.pkl")
+df = pd.read_pickle("/Dashboard/ContributionsCand.pkl")
 
 df.Date = pd.to_datetime(df.Date, format='%m/%d/%Y')
 
